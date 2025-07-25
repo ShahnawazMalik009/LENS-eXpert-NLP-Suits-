@@ -83,7 +83,7 @@ with tab4:
             
 st.sidebar.image('img.jpg')           
 with st.sidebar.expander("ℹ️ About us"):
-    st.write("I am a Student trying to understand the concept of NLP")
+    st.write("Hello, My self Shahnawaz Malik, I am a Student trying to understand the concept of NLP")
 with st.sidebar.expander("🧠 Technology Used"):
     st.write("Python 🐍,/nScikit-learn,/nNLTK / SpaCy,/nPandas, Matplotlib, Seaborn (for data handling and visualization)")   
 with st.sidebar.expander("🌟 Key Highlights"):
